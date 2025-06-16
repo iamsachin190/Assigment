@@ -110,6 +110,3 @@ frontend/
 ```
 
 ---
-
-## License
-MIT 
